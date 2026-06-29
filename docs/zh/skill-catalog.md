@@ -255,3 +255,5 @@ permalink: /zh/skill-catalog/
 | Value Dividend Screener | 必需 | 推荐 | — |
 | VCP Screener | 必需 | — | — |
 | Weekly Performance Digest | — | — | — |
+| Stockbee Episodic Pivot Analyzer | 可选 | — | — |
+| Stockbee Setup Fluency Trainer | 可选 | — | — |
